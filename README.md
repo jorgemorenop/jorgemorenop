@@ -22,8 +22,9 @@ I'm a Spanish Software developer, currently working as Data Engineer. I'm eager 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
 
+<br />
+<br />
 
 <img align="left" alt="jorgemorenop Github Stats" src="https://github-readme-stats.jorgemorenop.vercel.app/api?username=jorgemorenop&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dracula" />
 
