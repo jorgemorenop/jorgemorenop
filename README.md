@@ -24,14 +24,8 @@ I'm a Spanish Software developer, currently working as Data Engineer. I'm eager 
 
 <br />
 
-<details>
-<summary>:zap: Github Stats</summary>
+
 <img align="left" alt="jorgemorenop Github Stats" src="https://github-readme-stats.jorgemorenop.vercel.app/api?username=jorgemorenop&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dracula" />
-</details>
 
-
-<!-- 
-[website]: https://codeSTACKr.com
- -->
  
 [linkedin]: https://linkedin.com/in/jorge-moreno-palenzuela-b51134115
