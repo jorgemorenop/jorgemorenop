@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a Spanish Software developer, currently working as Data Engineer. I'm eager to learn new languages and technologies.
-- 🔭 I’m currently working at Olympic Channel Services.
-- 🌱 I've experience with several languages and platforms, but mostly AWS and Python. I’m currently learning Typescript and React.
+I'm a Data Engineer, very focused in Cloud environments.
+- 🔭 I’m a freelancer, always open to new challenges.
+- 🌱 My main focus is AWS and Python. I'm eager to learn new languages and technologies (currently learning about GCP and trying to do stuff with Typescript and React).
 - 📫 How to reach me: via [email](mailto:jorgemorenodev@gmail.com) or [LinkedIn][linkedin].
 
 
