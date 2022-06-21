@@ -26,7 +26,5 @@ I'm a Spanish Software developer, currently working as Data Engineer. I'm eager 
 <br />
 <br />
 
-<img align="left" alt="jorgemorenop Github Stats" src="https://github-readme-stats.jorgemorenop.vercel.app/api?username=jorgemorenop&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dracula" />
 
- 
-[linkedin]: https://linkedin.com/in/jorge-moreno-palenzuela-b51134115
+[linkedin]: https://linkedin.com/in/jorgemorenop
